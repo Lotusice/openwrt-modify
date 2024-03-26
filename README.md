@@ -5,6 +5,9 @@
 解压：
 
 	./modify.sh e xxx.bin
+ 	eg:
+ 	./modify.sh extract firmware.bin
+
 列出目录
 
 	./rm.sh
