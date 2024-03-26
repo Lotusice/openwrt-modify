@@ -12,11 +12,11 @@
 
 打包：
 
-	./modify.sh c
+	./modify.sh create newfirmware.bin
 	
 清空环境：
 
-	./modify.sh C
+	./modify.sh clean
 
 其中：
 	mksquashfs4
