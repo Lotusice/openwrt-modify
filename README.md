@@ -5,6 +5,9 @@
 解压：
 
 	./modify.sh e xxx.bin
+列出目录
+
+	./rm.sh
 
 删除某个软件：
 
